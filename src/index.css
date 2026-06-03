@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f8f9fa;
+  font-family: 'Inter', 'Noto Sans KR', -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
